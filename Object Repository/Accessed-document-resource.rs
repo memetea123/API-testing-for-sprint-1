@@ -19,7 +19,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyMSIsImF1dGgiOiJST0xFX1VTRVIiLCJleHAiOjE1ODQ0MTc3MTh9.T-R9zQLev6ZBDTfwDgyr3PAr1Nt9W6lYcFT3xkyZbDAuFks7egZEBmhni4FK7Z7BTDg-pyTBCbZQgT_SL6tvBg</value>
+      <value></value>
    </httpHeaderProperties>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
